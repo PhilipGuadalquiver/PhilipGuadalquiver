@@ -8,7 +8,7 @@ Software Developer and Designer
 I'm a software developer driven by a passion for crafting seamless, user-centric digital experiences. With a strong foundation in JavaScript, React, PostgreSQL, and Node.js, I specialize in building scalable web and mobile applications that blend innovation with functionality. Over the past year, I've thrived in Agile and Scrum environments, contributing to projects ranging from performance management systems to dynamic e-commerce platforms. Always eager to push the boundaries, I'm exploring Python and Go to stay ahead of the curve. I love turning bold ideas into impactful digital products and thrive in fast-paced, collaborative settings where creativity and problem-solving intersect.
 
 *   🌍  I'm based in Philippines
-*   🖥️  See my portfolio at [https://nigelpetargue.vercel.app](https://e-shop-mocha-phi.vercel.app/)/
+*   🖥️  See my portfolio at [https://e-shop-mocha-phi.vercel.app](https://e-shop-mocha-phi.vercel.app/)/
 *   ✉️  You can contact me at [guadalquiverphilip@gmail.com](mailto:guadalquiverphilip@gmail.com)
 *   🤝  I'm open to collaborating on Web Development
 *   ⚡  Passionate about learning, problem-solving, and turning ideas into impactful solutions. Always ready to embrace new challenges and technologies!### Skills 
